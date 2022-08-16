@@ -1,6 +1,7 @@
 ## Samantha Jane
 
-some neat junk i made
+some neat (probably very bad) junk i made
 
-- [vec](https://sjdobesh.github.io/vec/html/index.html)
 - [sbuf](https://sjdobesh.github.io/sbuf/html/index.html)
+- [spng](https://sjdobesh.github.io/spng/html/index.html)
+- [vec](https://sjdobesh.github.io/vec/html/index.html)
